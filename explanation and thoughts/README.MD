@@ -42,11 +42,11 @@ v
 |
 v
 [ Executes task via API /  browser / OS automation ]
-## Example real life case
+
 
 ---
 
-## 🧩 Workflow
+## Example real life case🧩 Workflow
 
 1. **User Input** — e.g., "I want to travel to Bangalore"
 2. **Model A processes** intent, generates structured output like:
