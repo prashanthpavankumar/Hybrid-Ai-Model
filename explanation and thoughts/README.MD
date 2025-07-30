@@ -1,4 +1,4 @@
-# 🤖 Hybrid AI System: Thinker + Doer Architecture
+#  Hybrid AI System: Thinker + Doer Architecture
 
 This project is a **hybrid AI system** built from scratch. It consists of two collaborating models **"The idea is to make two models precisely Generative LLM and an AI Agent in ONE FRAMEWORK"**:
 
