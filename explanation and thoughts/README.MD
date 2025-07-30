@@ -80,14 +80,14 @@ UI building (Gradio / Streamlit)
 Hybrid AI design patterns
 #Here's the complete overview of the plan in Phases,
 **📆 Project Milestones**
-**Phase	          Goal	                              Status**
-**Phase 1	      Learn Python, Flask, APIs	          🔄 In Progress**
-**Phase 2	      Build Thinker (Model A)	            ⬜ Not Started**
-**Phase 3	      Build Doer (Model B)	              ⬜ Not Started**
-**Phase 4	      Connect A ↔ B	                      ⬜ Not Started**
-**Phase 5	      Add UI	                            ⬜ Not Started**
-**Phase 6	      Final Testing	                      ⬜ Not Started**
-**Phase 7	      Deployment	                        ⬜ Not Started**
+|**Phase**|	          |**Goal**|	                              |**Status**|
+|**Phase 1**|	      |**Learn Python, Flask, APIs**|	       |**🔄 In Progress**|
+|**Phase 2**|	      |**Build Thinker (Model A)	 **|         |**⬜ Not Started**|
+|**Phase 3**|	      |**Build Doer (Model B)	    **|         |**⬜ Not Started**|
+|**Phase 4**|	      |**Connect A ↔ B	          **|         |**⬜ Not Started**|
+|**Phase 5**|	      |**Add UI	                **|         |**⬜ Not Started**|
+|**Phase 6**|	      |**Final Testing	          **|         |**⬜ Not Started**|
+|**Phase 7**|	      |**Deployment	             **|         |**⬜ Not Started**|
 
 
 
