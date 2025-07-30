@@ -33,7 +33,7 @@ Together, they simulate intelligent decision-making followed by real-world actio
 
 ## 📐 Architecture Overview
 
-+-----------+ +--------------------+ +----------------+
+|-----------| |--------------------| |----------------|
 | User | ---> | Model A (Thinker) | ---> | Decision JSON |
 +-----------+ +--------------------+ +--------+-------+
 |
