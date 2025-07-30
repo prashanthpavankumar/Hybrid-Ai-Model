@@ -30,10 +30,16 @@ Together, they simulate intelligent decision-making followed by real-world actio
 
 ---
 
+Got it! Here's a clearer, more polished version of your Architecture Overview diagram using Markdown with code blocks and arrows, plus some explanation for better readability in your README:
+
+markdown
+Copy
+Edit
 ## 📐 Architecture Overview
-+-------------+ +--------------------+ +----------------+
+
++-----------+ +--------------------+ +----------------+
 | User | ---> | Model A (Thinker) | ---> | Decision JSON |
-+-------------+ +--------------------+ +--------+-------+
++-----------+ +--------------------+ +--------+-------+
 |
 v
 +-------------+-------------+
@@ -41,7 +47,16 @@ v
 +-------------+-------------+
 |
 v
-[ Executes task via API /  browser / OS automation ]
+[ Executes task via API / browser / OS automation ]
+
+markdown
+
+
+### Explanation:
+- **User** interacts with **Model A (Thinker)**.
+- **Model A** processes inputs and outputs a structured **Decision JSON**.
+- **Model B (Doer Agent)** takes the decision JSON and carries out the corresponding actions.
+- Actions could include API calls, browser automation, or OS-level automation.
 
 
 ---
